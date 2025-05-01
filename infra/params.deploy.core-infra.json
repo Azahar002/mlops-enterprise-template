@@ -11,9 +11,6 @@
     "DataLakestorageName": {
       "value": "mydlsdemo2"
     }
-    "location": {
-  "value": "eastus2"
-    }
 
   }
 }
